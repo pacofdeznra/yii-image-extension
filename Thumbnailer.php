@@ -1,7 +1,7 @@
 <?php
 class Thumbnailer extends CApplicationComponent
 {
-	public $wideImagePath;
+	public $wideImagePath; // WideImage relative path from application base path
 	public $width;
 	public $height;
 	
